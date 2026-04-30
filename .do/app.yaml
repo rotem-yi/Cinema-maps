@@ -1,0 +1,9 @@
+name: cinema-maps
+static_sites:
+- name: cinema-maps
+  github:
+    repo: rotem-yi/cinema-maps
+    branch: main
+    deploy_on_push: true
+  index_document: index.html
+  output_dir: public
