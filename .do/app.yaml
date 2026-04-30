@@ -2,7 +2,7 @@ name: cinema-maps
 static_sites:
 - name: cinema-maps
   github:
-    repo: rotem-yi/cinema-maps
+    repo: rotem-yi/Cinema-maps
     branch: main
     deploy_on_push: true
   index_document: index.html
